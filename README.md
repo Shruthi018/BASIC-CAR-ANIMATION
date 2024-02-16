@@ -32,4 +32,4 @@ Once the project is set up and the `index.html` file is opened in a web browser,
 
 Feel free to customize the animation by modifying the HTML and CSS files according to your preferences.
 
-![Uploading Screenshot 2024-02-16 220837.png…]()
+![Screenshot 2024-02-16 220837](https://github.com/Shruthi018/BASIC-CAR-ANIMATION/assets/137261316/2cfbc31d-05db-4411-b4cb-9b78c4d6e113)
