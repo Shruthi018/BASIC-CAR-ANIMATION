@@ -1,0 +1,61 @@
+body{
+    background-color: skyblue;
+}
+#road{
+    position: absolute;
+    bottom:0%;
+    background-color:rgb(83, 77, 77);
+    height:40%;
+    width:100%;
+    box-sizing:border-box;
+    border-top:5px solid black;
+}
+#mid{
+    position: absolute;
+    box-sizing:border-box;
+    border: 4px dashed white ;
+    bottom: 45%;
+    width:100%;
+    height:0%;
+}
+#cr1{
+    position: absolute;
+    bottom:35%; 
+    left: 0%;
+    animation-name:move;
+    animation-duration:10s;
+}
+@keyframes move{
+    from
+    {
+        transform:translateX(0);
+    }
+    to
+    {
+        transform:translateX(1250px);
+    }
+
+}
+#cr2{
+    position: absolute;
+    top:40%;
+    height:80%;
+    animation-name:move;
+    animation-duration:7s;
+    animation-direction:reverse;   
+}
+#cloud{
+    position: absolute;
+    bottom:80%; 
+    width:45%;
+    left:-4%;
+    height:200%;  
+    animation-name:move;
+    animation-duration:10s;
+}
+#sun
+{   position: relative;
+    bottom:130%;
+    left:60%;
+    height:80%;
+}
