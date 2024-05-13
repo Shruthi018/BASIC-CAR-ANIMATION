@@ -33,6 +33,8 @@ Once the project is set up and the `index.html` file is opened in a web browser,
 Feel free to customize the animation by modifying the HTML and CSS files according to your preferences.
 
 
-[Uploading Untitled video - Made with Clipchamp (1).mp4…](https://github.com/Shruthi018/BASIC-CAR-ANIMATION/assets/137261316/adbe5c85-a559-42b3-8900-55cc2df7552b
-)
+
+https://github.com/Shruthi018/BASIC-CAR-ANIMATION/assets/137261316/650d9c8c-ef2b-40c8-8415-da6e0eb683b8
+
+
 
