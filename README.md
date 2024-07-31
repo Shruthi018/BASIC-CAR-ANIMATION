@@ -1,4 +1,4 @@
-# Shruthi018.Basic Car Animation Project
+# Basic Car Animation Project
 
 This project is a simple web animation that simulates a scene with cars moving on a road, clouds floating, and a sun shining in the sky.
 
