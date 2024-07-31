@@ -30,9 +30,8 @@ https://github.com/Shruthi018/BASIC-CAR-ANIMATION.git
 
 Once the project is set up and the `index.html` file is opened in a web browser, you will see the animation of cars moving on the road, clouds floating across the sky, and the sun shining.
 
+## Live demo
 
-
-https://github.com/Shruthi018/BASIC-CAR-ANIMATION/assets/137261316/650d9c8c-ef2b-40c8-8415-da6e0eb683b8
-
+https://shruthi018.github.io/BASIC-CAR-ANIMATION/car/
 
 
