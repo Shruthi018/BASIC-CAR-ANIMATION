@@ -1,4 +1,4 @@
-# Basic Car Animation Project
+# Shruthi018.Basic Car Animation Project
 
 This project is a simple web animation that simulates a scene with cars moving on a road, clouds floating, and a sun shining in the sky.
 
@@ -29,8 +29,6 @@ https://github.com/Shruthi018/BASIC-CAR-ANIMATION.git
 ## Usage
 
 Once the project is set up and the `index.html` file is opened in a web browser, you will see the animation of cars moving on the road, clouds floating across the sky, and the sun shining.
-
-Feel free to customize the animation by modifying the HTML and CSS files according to your preferences.
 
 
 
